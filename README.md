@@ -8,3 +8,5 @@ Após ser realizado o login, o utilizador tem a possibilidade de realizar um ped
 Ao realizar o pedido, o cliente tem à sua disposição cinco pizzas diferentes com dois tamanhos, pequeno e grande com um custo de cinco e oito euros respetivamente. O cliente tem desconto caso o seu histórico de compras atinja os 50 euros e este desconto pode ocorrer de duas maneiras diferentes. Caso a compra atual do utilizador ultrapasse os 50 euros, a pizza de menor valor terá um desconto de 50%, caso não atinja este desconto é aplicado na pizza de menor valor da encomenda seguinte.
 
 Após a finalização de pedido é mostrado no display a informação de descontos e o valor total a pagar.
+
+[Link para o Pdf](https://github.com/RicardoJardim/Pizza-Order-Assembly/blob/master/Ricardo_lucas_2040416_francisco_serrao_2040916_2projeto_ac%20.pdf "PDF")
